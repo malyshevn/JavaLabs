@@ -1,4 +1,4 @@
-package Lab3;
+package Lab3.Task1;
 
 public class Auto {
     // Закрытый член нашего класса с названием фирмы автомобиля
