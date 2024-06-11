@@ -1,4 +1,4 @@
-package Lab3;
+package Lab3.Task1;
 
 public class Car extends Auto {
     private String model;
